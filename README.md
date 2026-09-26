@@ -1,8 +1,6 @@
 
-# lifeweb
+# VLS Legacy
 
-This is a library for simulating [cellular automata](https://conwaylife.com/wiki/Cellular_automaton), including [Conway's Game of Life](https://conwaylife.com/wiki/Conway's_Game_of_Life).
+This is the last version of lifeweb that contains the legacy version of VLS. I will not update this repo, and please do not use this for searches.
 
-The main interface is Pattern. Pattern is implemented by 2 abstract classes, DataPattern, which stores its data in a Uint8Array, and CoordPattern, which stores its data in a Map of coordinates to states.
-
-Testers: dragoncoder047 (wirehead), hotdogPi, supposedly (M. I. Wright), sylvani, AforAmpere, Professor Rex 824.
+This exists for bookkeeping purposes only.
